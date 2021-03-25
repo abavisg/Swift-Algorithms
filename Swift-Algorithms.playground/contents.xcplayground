@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' buildActiveScheme='true'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Print all paths in binary tree'/>
+        <page name='Generate all permutations in a given string'/>
+    </pages>
+</playground>
