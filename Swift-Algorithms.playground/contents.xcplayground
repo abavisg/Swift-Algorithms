@@ -3,5 +3,6 @@
     <pages>
         <page name='Print all paths in binary tree'/>
         <page name='Generate all permutations in a given string'/>
+        <page name='Remove duplicates from String'/>
     </pages>
 </playground>
