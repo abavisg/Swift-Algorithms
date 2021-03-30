@@ -3,6 +3,8 @@
 import Foundation
 
 /*
+ Remove duplicates from String
+ 
  Remove Duplicate Characters in a given String
  
  Input String: tree traversal

@@ -1,6 +1,8 @@
 //: [Previous](@previous)
 
 /*
+ Print all paths in binary tree
+ 
  You have a binary tree:
      A
     B C

@@ -7,6 +7,7 @@
         <page name='Array Left Rotation'/>
         <page name='Ransom note'/>
         <page name='Reverse Doubly Linked List'/>
-        <page name='Product Except Self'/>
+        <page name='Product of Array Except Self'/>
+        <page name='Sales by Match'/>
     </pages>
 </playground>
