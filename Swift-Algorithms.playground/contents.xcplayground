@@ -11,5 +11,6 @@
         <page name='Sales by Match'/>
         <page name='Two Sum'/>
         <page name='Duplicate Zeros'/>
+        <page name='Group Anagrams'/>
     </pages>
 </playground>
