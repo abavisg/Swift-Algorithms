@@ -6,5 +6,6 @@
         <page name='Remove duplicates from String'/>
         <page name='Array Left Rotation'/>
         <page name='Ransom note'/>
+        <page name='Reverse Double Linked List'/>
     </pages>
 </playground>
