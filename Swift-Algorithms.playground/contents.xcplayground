@@ -10,5 +10,6 @@
         <page name='Product of Array Except Self'/>
         <page name='Sales by Match'/>
         <page name='Two Sum'/>
+        <page name='Duplicate Zeros'/>
     </pages>
 </playground>
