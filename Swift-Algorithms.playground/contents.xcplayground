@@ -5,5 +5,6 @@
         <page name='Generate all permutations in a given string'/>
         <page name='Remove duplicates from String'/>
         <page name='Array Left Rotation'/>
+        <page name='Ransom note'/>
     </pages>
 </playground>
