@@ -13,5 +13,6 @@
         <page name='Duplicate Zeros'/>
         <page name='Group Anagrams'/>
         <page name='Reverse String'/>
+        <page name='Contains Duplicate'/>
     </pages>
 </playground>
