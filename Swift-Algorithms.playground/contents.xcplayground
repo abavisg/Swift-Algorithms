@@ -12,5 +12,6 @@
         <page name='Two Sum'/>
         <page name='Duplicate Zeros'/>
         <page name='Group Anagrams'/>
+        <page name='Reverse String'/>
     </pages>
 </playground>
